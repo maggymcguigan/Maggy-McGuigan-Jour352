@@ -1,0 +1,29 @@
+/*
+MY COLOR PALETTE
+Lighter Navy - #134074
+Navy - #13315C
+Darkest Blue - #0B2545
+Carolina Blue - #8DA9C4
+White - #EEF4ED
+*/
+
+body {
+    background-color:#8DA9C4;
+    text-align:center;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    text-align:center;
+    font-size:44px;
+    font-family: 'Courgette', cursive;
+    color:#0B2545 ;
+    border: 3px solid #EEF4ED;
+    padding: 90px 30px 0px 30px;
+    margin:auto;
+}
+
+#highlight {
+    color:#EEF4ED;
+}
