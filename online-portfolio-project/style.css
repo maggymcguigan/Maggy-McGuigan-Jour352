@@ -1,5 +1,98 @@
 #footer{
-    background-color:#92A8C1;
-    color:white;
+    background-color:#1A3159;
+    color:#EFF4EE;
     padding: 20px 0px 20px 20px;
 }
+
+#topper{
+    background-image: url(mcguigan-topper.png);
+    background-size:auto;
+    background-position: top left;
+    text-align:right;
+}
+
+img{
+   width: auto;
+    height: auto;
+}
+
+h1{
+    margin-left: 120px;
+    margin-top: 340px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    color:#EFF4EE;
+    font-family: 'Raleway', Sans-Serif;
+    font-weight:lighter;
+    font-size:450%;
+    opacity: .9;
+ 
+    
+
+}
+
+h2{
+    margin-top: 50px;
+    margin-right: 15px;
+    margin-bottom: 100px;
+    color:#EFF4EE;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    font-size: 300%;
+    opacity: .9;
+
+}
+
+h3{
+    font-family: 'Raleway', Sans-Serif;
+    padding-bottom: 15px;
+}
+
+h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+
+}
+
+h5{
+  font-family: 'Raleway', Sans-Serif;
+    font-weight: lighter;  
+}
+
+h6{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+}
+
+p{
+   font-family: 'Raleway', Sans-Serif;
+    margin-right: 275px;
+    padding-bottom: 15px;
+}
+
+ul{
+    font-family: 'Raleway', Sans-Serif;
+}
+
+
+
+button:hover{
+    color:white;
+   
+}
+
+button{
+    height: 60px;
+    width: 275px;
+    margin-bottom: 250px;
+    margin-right: 200px;
+    opacity: .9;
+}
+
+body{
+    background-color: #B9CBE1;
+}
+
+
+    
+
