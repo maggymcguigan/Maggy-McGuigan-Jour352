@@ -12,6 +12,9 @@
     p{
       color: white;
            font-size:5px;
+        *{
+            font-family: 'Raleway', sans-serif; 
+        }
         
     }
     
