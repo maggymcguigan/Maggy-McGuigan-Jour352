@@ -1,0 +1,161 @@
+@media {
+    /*Phone styles here*/
+    /*This media query targets any screen smaller than 576px wide (see below)*/
+    h1{
+        font-size: 12px;
+    }
+    
+    h2{
+        font-size:  8px;
+    }
+    
+    p{
+      color: white;
+        font-size:15px;
+        margin-top: auto;
+    }
+        *{
+            font-family: 'Raleway', sans-serif; 
+        }
+        
+    
+    
+.pquote {
+  border: 5px solid black ;
+    font-size: 150%;
+    padding: 12px;
+    background-color: black;
+    text-align: center;
+}
+    
+  .container-fluid{
+       
+      color: white;
+      background-color: transparent;
+      position: relative;
+     padding: 40px;
+    
+    }
+    
+    body{
+        background-color: #17223B;
+    }
+    
+    footer{
+        padding: 10px;
+        background: black;
+    }
+    
+    .phelps{
+   
+            display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+    }
+    .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+    
+    .medal{
+       display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+        
+    }
+    
+    .medalswon{
+        width: 75%;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+    }
+
+.cover{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+    justify-content: center;
+}
+
+
+}
+
+@media (min-width: 576px) {
+    /*Tablet-only styles here*/
+    /*This media query targets any screen that is at least 576px wide (but smaller than 992px wide (see below)*/
+    p {
+         font-size:20px;
+    }
+    .centered {
+  position: absolute;
+  top: 20%;
+    }
+    
+    .medal{
+        width: 30%;
+            left:70%;
+    }
+  
+}
+
+h1{
+   font-size: 100%
+}
+
+h2{
+   font-size: 100%
+}
+}
+    
+ 
+    
+    
+}
+
+@media (min-width: 992px) {
+    /*Desktop-only styles here*/
+    /*This media query targets any screen that is at least 992px wide*/
+    p {
+        font-size:25px;
+    }
+    .centered {
+  position: absolute;
+  top: 20%;
+    }
+    
+    h1{
+     font-size: 130%
+    }
+    
+    h2{
+   font-size: 130%
+    }
+}
+
+@media (min-width: 1200px) {
+    /*Large-Desktop-only styles here*/
+    /*This media query targets any screen that is at least 1200px wide*/
+    p {
+        font-size:20px;
+    }
+    .centered {
+  position: absolute;
+  top: 50%;
+    }
+  h1{
+font-size: 150%
+    }
+    
+    h2{
+      font-size: 150%
+}
+ 
+    
+} 
